@@ -1,0 +1,10 @@
+
+make rotation a vector, so that bullets can be easily shot (normalised vectpr && speed)
+
+funciotn to normlaize vector
+lifetime of bullet
+
+implement deltatime for physics elements
+
+
+i need to finally learn git
